@@ -1,2 +1,2 @@
-# PRECURSO
-ESTE ES UN REPOSITORIO DE PRUEBA
+este proyecto es una prueba
+
